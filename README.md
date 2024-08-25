@@ -1,6 +1,5 @@
 # 💫 About Me:
-Bracezin Technologies Private Limited
-
+I create user interfaces for Websites and apps. I have knowledge of HTML, CSS, Javascript and Angular. I'm a Project Coordinator and Senior UX/UI Designer & Developer with more than 5 years experience in web design and 2 years in development. I'm highly motivated, creative, and versatile. I'm especially skilled in creating and directing corporate and new business apps and web designs into the new millennium. I'm highly skilled at innovating user experience for the web and mobile applications. I have exceptional interpersonal skills with team members and subordinates. I am proficient at incorporating the desires of the client with a superior design solution.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/rajamuthiah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muthiah-raja-2b461a298) 
